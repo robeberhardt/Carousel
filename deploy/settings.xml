@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<carousel>
+	<actor id="backpack" path="assets/backpack.png" vOffset="-20"/>
+	<actor id="box" path="assets/box.png" />
+	<actor id="dice" path="assets/dice.png" />
+	<actor id="headphones" path="assets/headphones.png" />
+	<actor id="plane" path="assets/plane.png" vOffset="40" />
+	<actor id="satchel" path="assets/satchel.png" />
+	<actor id="tools" path="assets/tools.png" />
+</carousel>
